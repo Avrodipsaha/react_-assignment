@@ -13,5 +13,10 @@ project images :-
 
 
 
+ file:///home/thanos/Pictures/Screenshots/Screenshot%20from%202022-06-25%2014-12-48.png
+-36:-64:50:85
 
-![Screenshot from 2022-06-25 14-10-13](https://user-images.githubusercontent.com/95330949/175765805-0614e0b0-0d36-4b68-b7d9-21fe08a0344b.png)
+
+
+
+ file:///home/thanos/Pictures/Screenshots/Screenshot%20from%202022-06-25%2014-11-18.png
